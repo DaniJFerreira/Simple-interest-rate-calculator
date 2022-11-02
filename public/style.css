@@ -4,6 +4,13 @@ body {
     margin: auto;
 }
 
+.title h1{
+  height: 55px;
+  padding: 50px auto;
+  margin: 50px;
+  text-align: center;
+}
+
 h1{
   background-color: #1e1e3a;
   color: transparent;
@@ -11,10 +18,10 @@ h1{
   -webkit-background-clip: text;
      -moz-background-clip: text;
           background-clip: text;
-padding-top: 1em;
-text-align: center;
-font-size: 2rem;
-font-weight: bold;
+  padding-top: 1px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 h1 .modal-title{
@@ -91,15 +98,14 @@ body {
 	margin-top: 42vh;
 }
 
-.form-control{
-  position: absolute;
+.form-select{
+position: absolute;
 max-width: 430px;
  margin-block: auto;
 }
 
-.bUtton{
-  margin: 70px auto 5px;
-
+.button{
+  margin: 50px auto 15px;
 }
 
 .btn{
@@ -128,8 +134,6 @@ color: #85b7f0;
 
 .copyright{
   max-height: 30px;
-  margin: 50px auto;
-  padding: 5px auto 10px;
   text-align: center;
   font-size: 1rem;
 }
