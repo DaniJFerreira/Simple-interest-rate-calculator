@@ -26,7 +26,8 @@ h1 .modal-title{
     background-color: white;
     border-radius: 30px;
     margin: 3rem auto;
-    width: 500px;
+    max-width: 500px;
+    max-height: 672px;
     padding: 1em 1em;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         /* From https://css.glass */
@@ -38,17 +39,16 @@ h1 .modal-title{
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-.center {
-    margin: auto;
-}
-
 .inside {
-   width: 430px;
+   max-width: 430px;
+   max-height: 550px;
+   min-height: 550px;
     text-align: center;
     line-height: 2em;
     color: white;
-    margin: 30px 10px auto auto;
-   
+    margin: 30px 10px 10px 10px;
+    padding-block: auto;
+
 }
 
 label {
@@ -91,10 +91,22 @@ body {
 	margin-top: 42vh;
 }
 
+.form-control{
+  position: absolute;
+max-width: 430px;
+ margin-block: auto;
+}
+
+.bUtton{
+  margin: 70px auto 5px;
+
+}
+
 .btn{
   margin: 0px 100px;
   border-color: transparent;
   color: white;
+  display: block;
 }
 
 .btn a{
@@ -115,8 +127,9 @@ color: #85b7f0;
 }
 
 .copyright{
-  height: 50px;
-  margin: 50px auto 10px;
+  max-height: 30px;
+  margin: 50px auto;
+  padding: 5px auto 10px;
   text-align: center;
   font-size: 1rem;
 }

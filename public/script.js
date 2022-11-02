@@ -29,8 +29,4 @@ function compute()
     amount.innerHTML = ((p * r)/100)*y;
     date.innerHTML = 2022 + parseInt(y)
     
-
-  
-  
-
 }
