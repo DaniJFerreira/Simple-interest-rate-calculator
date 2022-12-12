@@ -271,3 +271,10 @@ input {
     display: inline;
     background-color: yellow;
 }
+
+@media (max-width:795px){
+
+  .title h1{
+    height: 70px;
+  }
+}
