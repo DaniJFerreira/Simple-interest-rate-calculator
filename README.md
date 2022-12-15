@@ -1,12 +1,18 @@
-# Simple Interest R+ate Calculcator 
+# Simple Interest Rate Calculcator 
 
 Project from Edx-IBM Cloud Web Developer course. This project was implemented by me using css and javascript.
 
 ## Installation 
 
 Use the link bellow to learn more about:
-[javascript](https://www.w3schools.com/js/)
-[Css](https://www.w3schools.com/css/)
+
+[![html-logo](https://user-images.githubusercontent.com/117309987/207838950-989845c1-1008-4729-9993-681044f6ce0f.png)][1]
+[![css-logo](https://user-images.githubusercontent.com/117309987/207838937-caa35ac0-6c80-4333-844d-ed309e16987f.png)][2]
+[![JavaScript-logo](https://user-images.githubusercontent.com/117309987/207838952-3dbdde37-14a5-4539-9ad4-42cc7f47cad7.png)][3]
+
+[1]: https://www.w3schools.com/html/
+[2]: https://www.w3schools.com/css/
+[3]: https://www.w3schools.com/js/
 
 ## About
 
