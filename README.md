@@ -1,10 +1,10 @@
 # Simple Interest R+ate Calculcator 
 
-Project from Edx-IBM Cloud web develeper course. this project was implemented by me using css.
+Project from Edx-IBM Cloud Web Developer course. This project was implemented by me using css and javascript.
 
 ## Installation 
 
-Use the link bellow to install the package on you project:
+Use the link bellow to learn more about:
 [javascript](https://www.w3schools.com/js/)
 [Css](https://www.w3schools.com/css/)
 
