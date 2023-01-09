@@ -6,13 +6,15 @@ Project from Edx-IBM Cloud Web Developer course. This project was implemented by
 
 Use the link bellow to learn more about:
 
-[![html-logo](https://user-images.githubusercontent.com/117309987/207838950-989845c1-1008-4729-9993-681044f6ce0f.png)][1]
-[![css-logo](https://user-images.githubusercontent.com/117309987/207838937-caa35ac0-6c80-4333-844d-ed309e16987f.png)][2]
-[![JavaScript-logo](https://user-images.githubusercontent.com/117309987/207838952-3dbdde37-14a5-4539-9ad4-42cc7f47cad7.png)][3]
+[![html](https://user-images.githubusercontent.com/117309987/210229486-9f5e01e3-3c35-4238-817a-f65bfac95378.png)][1]
+[![css3](https://user-images.githubusercontent.com/117309987/210229484-4fc2f739-1c58-48f4-ae1c-b9445d6bb90b.png)][2]
+[![bootstrap](https://user-images.githubusercontent.com/117309987/210229483-76a364a5-60ce-4b24-aa64-50e0930bbed0.png)][3]
+[![javascript](https://user-images.githubusercontent.com/117309987/210229488-f2a2488d-dc55-4ab0-b1d8-08326a315393.png)][4]
 
-[1]: https://www.w3schools.com/html/
-[2]: https://www.w3schools.com/css/
-[3]: https://www.w3schools.com/js/
+[1]: https://www.w3schools.com/html
+[2]: https://www.w3schools.com/css
+[3]: https://getbootstrap.com 
+[4]: https://www.w3schools.com/js
 
 ## About
 
